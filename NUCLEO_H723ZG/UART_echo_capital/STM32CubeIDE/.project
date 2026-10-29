@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Timer_example_udemy_1</name>
+	<name>UART_echo_capital</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -31,9 +31,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Timer_example_udemy_1.ioc</name>
+			<name>UART_echo_capital.ioc</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Timer_example_udemy_1.ioc</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/UART_echo_capital.ioc</locationURI>
 		</link>
 		<link>
 			<name>Drivers/CMSIS/system_stm32h7xx.c</name>
